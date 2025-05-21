@@ -71,15 +71,7 @@
 
 ---
 
-### ✨ Tips I Followed to Make This Profile README Beautiful
 
-✅ Used **icons and shields** from [Shields.io](https://shields.io/) to highlight tools  
-✅ Added a **GIF** to make the intro dynamic  
-✅ Included **GitHub Stats** using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
-✅ Structured content with **clear sections** and bullet points  
-✅ Kept everything **updated and cleanly formatted**
-
----
 
 <p align="center">💻 Let's build something awesome together!</p>
 
